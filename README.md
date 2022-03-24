@@ -1,3 +1,10 @@
+#Gilded Rose
+This version is a copy of EmilyBache GildedRose Kata (See details below) where the python code has been amended so it is more readable with the following bug fixes and enhancements
+
+1. BUG Aged Brie here Quality increased by 2 when sell in date was below 0
+2. No validation for bad data for Sulfuras
+3. ENhancement added for Conjured
+
 # Gilded Rose Refactoring Kata
 
 This Kata was originally created by Terry Hughes (http://twitter.com/TerryHughes). It is already on GitHub [here](https://github.com/NotMyself/GildedRose). See also [Bobby Johnson's description of the kata](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/).
